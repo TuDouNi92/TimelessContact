@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "timelesscontact",
+  "version": "${version}",
+  "name": "Timeless Contact",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "TuDouNi92"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "Insert License Here",
+  "icon": "assets/examplemod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.potatocraft.timelesscontact.fabric.TimelessContactFabric"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.20.1",
+    "architectury": ">=9.1.12"
+  }
+}
