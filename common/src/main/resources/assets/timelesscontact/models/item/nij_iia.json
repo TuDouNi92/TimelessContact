@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "timelesscontact:item/sapi"
+  },
+  "display": {
+    "ground": {
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        0.8,
+        0.8,
+        1.0
+      ]
+    }
+  }
+}
