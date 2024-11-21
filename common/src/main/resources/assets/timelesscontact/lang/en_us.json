@@ -1,4 +1,10 @@
 {
+  "itemGroup.timelesscontact.timelesscontact_tab": "TimelessContact",
   "item.timelesscontact.timelesscontact_item": "Hello World",
-  "itemGroup.timelesscontact.timelesscontact_tab": "TimelessContact"
+  "item.timelesscontact.nij_iia": "NIJ/IIA Nomex Vest",
+  "item.timelesscontact.nij_ii": "NIJ/II Kevlar Vest",
+  "item.timelesscontact.sapi_iiia": "SAPI NIJ/IIIA Steel plate",
+  "item.timelesscontact.sapi_iii": "SAPI NIJ/III Ceramic plate",
+  "item.timelesscontact.sapi_iv": "SAPI NIJ/IV Titanium plate",
+  "curios.identifier.plate": "Plate"
 }

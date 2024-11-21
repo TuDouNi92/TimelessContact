@@ -1,4 +1,10 @@
 {
   "replace": false,
-  "values": ["timelesscontact:sapi_iv"]
+  "values": [
+    "timelesscontact:nij_ii",
+    "timelesscontact:nij_iia",
+    "timelesscontact:sapi_iii",
+    "timelesscontact:sapi_iiia",
+    "timelesscontact:sapi_iv"
+  ]
 }
